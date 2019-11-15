@@ -2,6 +2,7 @@
 #include "infixevaluator.h"
 
 int main() {
+	//comment added
 	printf("Welcome! Type an expression to solve or just press enter to close.\n");
 	char line[150];
 	float x;
